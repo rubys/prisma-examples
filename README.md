@@ -163,6 +163,7 @@ The projects in the [`deployment-platforms`](./deployment-platforms) directory s
 - [Supastarter](https://supastarter.dev/): Full-stack SaaS starter kit using Next.js/Nuxt.js/SvelteKit and Prisma with authentication, emails, payment, testing, linting, and formatting.
 - [Saas Kit Prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma): Full-stack SaaS starter kit using React.js, Next.js, TypeScript, Tailwind, Shadcn, Stripe, NextAuth, Prisma, Postgres, and Playwright.
 - [Saas Kit Prisma by BoxyHQ](https://github.com/boxyhq/saas-starter-kit): An open-source enterprise SaaS starter kit using Prisma ORM.
+- [NextReady](https://nextready.dev): A ready-to-use Next.js boilerplate with Prisma, TypeScript, Tailwind CSS, and more.
 
 ## Badges
 
