@@ -9,7 +9,7 @@ This example shows how to implement a **fullstack app with [Nuxt](https://nuxtjs
 Download this example:
 
 ```
-npx try-prisma@latest --template orm/nuxtjs
+npx try-prisma@latest --template orm/nuxt
 ```
 
 Install npm dependencies:
